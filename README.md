@@ -1,14 +1,16 @@
 # Webspoilt
 This script will you help to find the information about the website and to help in Penetrate testing 
 # Discalimer
-Disclaimer : - DeadShot0x7 will not responsible if you misuse the script , by using  the script you're that you will be responsible for the loss you have made 
+Disclaimer : - i am will not responsible if you misuse the script , by using  the script you're that you will be responsible for the loss you have made 
 # ScrenShot of the Script
 ![Screenshot](ScrnShot.JPG)
 # Features
 1. You can find Ip Address  of the website
 2. You can do Ddos Attack on website 
-3. Bruteforce ( Instagram ,  Spotify  ,  Twitter , Netfilx ,  Amazon Prime video , Pinrest ) [ Coming soon ]
-4. Port Scanner [Coming soon]
+3. Bruteforce ( Instagram ,  Spotify  , 
+4.  Twitter , Netfilx ,  
+5.  Amazon Prime video , Pinrest )
+6. Port Scanner [Coming soon]
 # Download
 You can download the script on various platform 
 
@@ -44,16 +46,6 @@ this script is tested  on these operating system
 2. Parrot Linux
 3. Termux ( find Instagram user is not working currently)
 4. Garuda Linux 
-# Like and  Frok
-Leave a like to the Repository  and feel free to fork the project  🙂
 
-# Disscussion 
-if you have any idea or Sugesstion for the tool do let's us know in the Disscussion and you your view will be Appriciated 🙌 , 
-# Are you looking for contribution 
-# Discord community 
-https://discord.gg/UgXse696we Join the Discord community 
-Yes, You can contribute to this contact me for contribution  to give you the role .
-# sponsor 
-This script is maintain by standalone developer , Support the Deveoper By donating some amount of money                     
-buymeacoffee.com/Deadshot0x7                
+https://jarvisstaraq.blogspot.com/
 
